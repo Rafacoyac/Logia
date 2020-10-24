@@ -1,0 +1,12 @@
+{
+  "name": "logia",
+  "displayName": "logia",
+  "expo": {
+    "name": "logia",
+    "slug": "logia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
